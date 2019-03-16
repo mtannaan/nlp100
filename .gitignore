@@ -114,3 +114,5 @@ jawiki-country.json.gz
 # chapter 4
 neko.txt
 neko.txt.mecab
+# chapter 5
+neko.txt.cabocha
