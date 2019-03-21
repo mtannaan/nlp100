@@ -103,6 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.DS_Store
+
 # 各課題のデータ/解答ファイル
 out_*
 # chapter 2
@@ -116,3 +118,7 @@ neko.txt
 neko.txt.mecab
 # chapter 5
 neko.txt.cabocha
+# chapter 6
+/stanford-corenlp-full-2018-10-05
+nlp.txt
+nlp.txt.xml
