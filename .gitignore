@@ -105,8 +105,9 @@ venv.bak/
 
 .DS_Store
 
-# 各課題のデータ/解答ファイル
+# 各課題のデータ/中間スクリプト/解答ファイル
 out_*
+helper_*
 # chapter 2
 hightemp.txt
 col1.txt
@@ -122,3 +123,7 @@ neko.txt.cabocha
 /stanford-corenlp-full-2018-10-05
 nlp.txt
 nlp.txt.xml
+# chapter 7
+artist.json
+dump.rdb
+/db
